@@ -8,7 +8,7 @@ description = "Hugo theme component to use the Kenney Icon Font."
 homepage = "https://gitlab.com/rmaguiar/hugo-kenney-icon-font"
 tags = [ "component", "icon font", "game" ]
 features = [ "icon font" ]
-min_version = "0.41.0"
+min_version = "0.42.0"
 
 [author]
   name = "rmaguiar"
